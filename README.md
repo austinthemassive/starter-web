@@ -7,6 +7,6 @@ The purpose is to practice using git.
 ## Development
 now i'm adding text when something has only been put in the staging area.
 ## How to Contribute
-
+Please fork this repository then issue pull requests for review
 ### Copyright
 2016 ah training
