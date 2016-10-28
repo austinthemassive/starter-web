@@ -7,3 +7,6 @@ The purpose is to practice using git.
 ## Development
 now i'm adding text when something has only been put in the staging area.
 ## How to Contribute
+
+### Copyright
+2016 ah training
